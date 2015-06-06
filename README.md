@@ -1,6 +1,6 @@
 # union-tokyo.com
 
-This is all data and codes for union-tokyo.com
+This is all data and codes for [union-tokyo.com](http://union-tokyo.com/)
 
 ## Dependencies
 
@@ -11,24 +11,24 @@ This is all data and codes for union-tokyo.com
 ```bash
 $ git clone https://github.com/lowply/union-tokyo.com.git
 $ cd union-tokyo.com
-$ docker-compose up
+$ restart.sh
 ```
 
 ## Environments
 
 ##### Backend
 
-- Go for application server
-- Martini for WAF
-- Gin for realtime compile
+- [Go](https://golang.org/) for application server
+- [Martini](https://github.com/go-martini/martini) for URL routing
+- [Gin](https://github.com/codegangsta/gin) for realtime compile
 
 ##### Frontend
 
-- HTML5
-- jQuery
-- Bootstrap for CSS Framework
-- SASS
-- Compass for realtime compile
+- HTML5 + CSS3
+- [jQuery](https://jquery.com/)
+- [Bootstrap](http://getbootstrap.com/) for CSS framework
+- [SASS](http://sass-lang.com/) for CSS coding
+- [Compass](http://compass-style.org/) for realtime compile
 - SVGZ for vector graphics
 
 ##### Datastore
@@ -37,11 +37,11 @@ $ docker-compose up
 
 ##### Infrastructure
 
-- Sakura VPS
-- Amazon Route53 for DNS
-- Nginx for reverse proxy
+- [Sakura VPS](http://vps.sakura.ad.jp/) for hosting
+- [Amazon Route53](http://aws.amazon.com/route53/) for DNS
+- [Nginx](http://nginx.org/) for reverse proxy
 
 ##### Deployment
 
-- GitHub for version control
-- Docker for application portability
+- [GitHub](https://github.com/lowply/union-tokyo.com/) for version control
+- [Docker](https://www.docker.com/) for application portability
