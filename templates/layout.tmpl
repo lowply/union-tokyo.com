@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="{{.Description}}">
+		<meta name="author" content="">
+		<link rel="shortcut icon" href="/assets/ico/favicon.ico">
+		<title>{{.Title}} | "union" of Tokyo D&B</title>
+		<link href="/assets/css/main.css" rel="stylesheet">
+	</head>
+
+	<body id="{{.Category}}">
+
+		<div class="navbar navbar-inverse" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<h1 id="top">Union Tokyo</h1>
+					<ul class="nav navbar-nav">
+						<li class="sns">
+							<a class="fb" href="https://www.facebook.com/union.Tokyo">facebook.com/union.Tokyo</a>
+							<a class="tw" href="https://twitter.com/union_Tokyo">twitter.com/union_Tokyo</a>
+						</li>
+					<ul>
+				</div>
+				<ul class="nav navbar-nav">
+					<li class="top"><a href="/">TOP</a></li>
+					<li class="about"><a href="/about/">ABOUT</a></li>
+					<!--<li class="column"><a href="/column/">COLUMN</a></li>-->
+					<li class="interview"><a href="/column/interview/">INTERVIEW</a></li>
+					<li class="artist"><a href="/artist/">LINEUP</a></li>
+					<li class="time"><a href="/time/">TIME</a></li>
+					<li class="report"><a href="/report/">REPORT</a></li>
+					<li></li>
+					<li class="sns">
+						<a class="fb" href="https://www.facebook.com/union.Tokyo">facebook.com/union.Tokyo</a>
+						<a class="tw" href="https://twitter.com/union_Tokyo">twitter.com/union_Tokyo</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<img src="/assets/img/header_a.jpg" width="100%">
+				</div>
+			</div><!-- /.row -->
+{{ yield }}
+			<div class="control">
+				<a href="#top">TOP</a>
+			</div>
+			<div class="row feedarea">
+				<div class="col-md-6">
+					<a class="twitter-timeline" href="https://twitter.com/union_Tokyo" data-widget-id="485643962288332801">@union_Tokyo からのツイート</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+				<div class="col-md-6">
+					<div class="fb-like-box" data-href="https://www.facebook.com/union.Tokyo" data-width="455" data-height="600" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
+				</div>
+			</div>
+			<small class="cr">
+				© 2014 union. ALL RIGHTS RESERVED.<br>DESIGN : <a href="https://www.facebook.com/hiro7nine">HIROSATO SAKUMA</a><br>DEVELOPMENT : <a href="http://lowply.com/">LOWPLY</a>
+			</small>
+		</div><!-- /.container -->
+
+		<!-- Bootstrap core JavaScript
+		================================================== -->
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="/assets/js/jquery-2.1.3.min.js"></script>
+		<script src="/assets/js/bootstrap.js"></script>
+		<script src="/assets/js/main.js"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-258121-15', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<div id="fb-root"></div>
+		<script>
+			(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=538474979590341&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		:-)
+	</body>
+</html>

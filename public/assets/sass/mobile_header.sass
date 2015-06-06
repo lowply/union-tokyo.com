@@ -1,0 +1,77 @@
+//===========================================
+// Header
+//===========================================
+
+div.navbar-inverse
+  margin-bottom: 20px
+  div.container
+    background: none
+    div.navbar-header
+      width: 100%
+      margin: 20px 0
+      overflow: hidden
+      h1
+        width: 88px
+        margin: 0 0 0 15px
+        padding-top: 62px
+        float: left
+        background-position: right top
+      > ul.navbar-nav
+        width: 66px
+        height: 62px
+        margin: 0 0 0 151px
+        display: block
+        float: left
+        li.sns
+          width: 50px
+          border-top: none
+          margin-top: 21px
+          height: 20px
+          a
+            margin: 0
+            padding-top: 20px
+            width: 20px
+            background-size: 20px 40px
+          a.fb
+            margin-right: 10px
+    ul.navbar-nav
+      margin: 0 15px
+      overflow: hidden
+      li
+        height: 35px
+        width: 88px
+        float: left
+        margin-right: 13px
+        border-top: solid 1px $keycolor
+        a
+          padding: 0
+          color: #FFDC00
+          line-height: 19px
+          padding-top: 15px
+        a:hover
+          background: url("/assets/img/nav_hover_mobile.svg") no-repeat left top
+      li:nth-child(3n)
+        margin-right: 0
+      li:nth-child(4),
+      li:nth-child(5),
+      li:nth-child(6)
+        border-bottom: solid 1px $keycolor
+      // li:nth-child(6)
+      //   border-bottom: solid 1px #777
+      //   a
+      //     color: #777
+      li:nth-child(7),
+      li:nth-child(8)
+        display: none
+      li.artist
+        clear: left
+      li.sns
+        background: none
+        padding-top: 0
+
+@each $page in $pages
+  body##{$page} .navbar>.container > .navbar-nav > li > a[href^="/#{$page}"]
+    background: url("/assets/img/nav_hover_mobile.svg") no-repeat left top
+
+body#top .navbar>.container > .navbar-nav > li > a[href="/"]
+  background: url("/assets/img/nav_hover_mobile.svg") no-repeat left top

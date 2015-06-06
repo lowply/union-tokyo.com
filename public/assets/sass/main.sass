@@ -1,0 +1,31 @@
+//===========================================
+// Imports
+//===========================================
+
+@import "bootstrap-compass"
+@import "bootstrap" 
+@import "http://fonts.googleapis.com/css?family=Questrial"
+
+//===========================================
+// Variables
+//===========================================
+
+$keycolor: #FFDC00
+$names: arumakan, aya, cardz, chami, dx, ena, gallo, halu, asamoto, hshiratori, itti, kmtr, largemouth, mahiru, makoto, medico, megsis, satoshi, timeslut, key, shine, stone, broadaxe, ken, lowply, velocity, hiro
+$pages: about, column, time, report, artist
+
+//===========================================
+// Media Queries
+//===========================================
+
+@import "global.sass"
+@import "header.sass"
+
+@media (min-width: 0px) and (max-width: 768px)
+  @import "mobile.sass"
+@media (min-width: 768px) and (max-width: 992px)
+  @import "tablet.sass"
+@media (min-width: 992px) and (max-width: 1200px)
+  @import "laptop.sass"
+@media (min-width: 1200px)
+  @import "large.sass"

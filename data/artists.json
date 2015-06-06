@@ -1,0 +1,430 @@
+{
+	"arumakan"	:	{
+		"name"			:	"ARUMAKAN",
+		"alias"			:	"arumakan",
+		"atype"			:	"DJ",
+		"org"			:	"ArijuaNa",
+		"suborg"		:	"",
+		"profile_ja"	:	"2011年10月にオーガナイザー交代以来、通常のクラブイベントでは有り得ない企画の数々を実現させ、その年の酒販売記録を塗り替えたクソバカ酔っぱらいパーティー『STACK PACK』主催三代目。 また、2012年8月12日、2013年8月10日に逗子の海の家Beach SAIKO!!にて開催された7団体合同パーティー『ALL LIGHTS!!!』を共同オーガナイズするなど、ジャンルや流儀に拘らない活動を続けるDrum & Bass DJ、オーガナイザー。 2013年4月より【それまでクラブミュージックを聞いたことがない層(『君』)をベース・ミュージックの『世界』と邂逅させ、アンダーグラウンド(黒)とオーバーグラウンド(白)の融合を図る】事を信条としたパーティー『ArijuaNa(アリヤナ)』を始動、DeepからHard、果てはRaveまで多彩なDrum & Bass DJを招聘し、好評を博している。 同年6月、GEEK COMPLEX TV所属、Electribeとしても活動しているDJ Singhと【純和製ドラムンベースユニット『粋狐-suiko-』】を結成。【粋な和風ベースを掻き鳴らす狐】をテーマに作曲を開始。 Techno,Houseなどが中心のイベントに出演し孤独にDrum & Bassを奏でるその姿は、さながら現代のスナフキンのようだとかはあまり言われないが、顔は森山未來にそっくりだと良く言われる。 辛いものと海老と卵と内臓系が苦手だし牛乳もあんまり飲まないのに無駄に背が高い。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"ARUMAKAN iflyer",
+				"url"	:	"iflyer.tv/ja/artist/24786/"
+			},
+			{
+				"name"	:	"STACK PACK FB official fan page",
+				"url"	:	"www.facebook.com/STACKPACK"
+			},
+			{
+				"name"	:	"ArijuaNa FB Official fan page",
+				"url"	:	"www.facebook.com/2013arijuana"
+			}
+		]
+	},
+	"aya"	:	{
+		"name"			:	"AYA",
+		"alias"			:	"aya",
+		"atype"			:	"DJ",
+		"org"			:	"CYM-PA",
+		"suborg"		:	"",
+		"profile_ja"	:	"2010年よりエレクトロ DJ として活動を開始。平日にも関わらず club asia で700人以上の集客を動員し、東京クラブシーンの最重要イベントの1つとして地位を築き上げた \"UNIKE\" 等を中心に、様々なパーティーでプレイし着実にキャリアを積んでいる。2011年、DJ AKi のプレイに衝撃を受けドラムンベースに傾倒。その後、アジア最大級のドラムンベースパーティー 06S のラウンジにて、ドラムンベース DJ として転身デビューを果たす。リキッドを軸としたメロディアスなプレイスタイルを得意とし、女性ならではの繊細なミックスで高い評価を得ている。2012年末には、Girls Bass Music Party \"Cym-pa\" に参加。現在は様々なパーティーからのブッキングを受け、TOPSHOP でのインストアDJも務めるなど、活動の範囲を着実に広げている。彼女の活躍には今後も目が離せない。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"AYA (MIX CLOUD)",
+				"url"	:	"www.mixcloud.com/Aya_1206/"
+			},
+			{
+				"name"	:	"CYM-PA (TWITTER)",
+				"url"	:	"twitter.com/cympagirls"
+			}
+		]
+	},
+	"chami"	:	{
+		"name"			:	"CHAM+I",
+		"alias"			:	"chami",
+		"atype"			:	"DJ",
+		"org"			:	"NEON",
+		"suborg"		:	"",
+		"profile_ja"	:	"幼少時より、ピアノ、トロンボーンに触れ、大学時代にはスカバンドを結成。2009年3月、ドラムンベースの DJ を開始すると同時に、福島にて自身のパーティー \"VION\" をオーガナイズ。2010年7月には渋谷 module を拠点に活動を続けているドラムンベース パーティー \"NEON\" にレジデント DJ として加入。2011年12月には、女性DJとして史上2人目の出演となったアジア最大級ドラムンベース\" パーティー \"06S (WOMB)\" にて、圧倒的なプレイでフロアを魅了した。2012年には、NEONに世界トップクラスの音を量産し続けている DJ / プロデューサーの Lenzman (Metalheadz) を招致するなど、現在進行形で活躍を続けている。彼女のDJプレイは、時にはディープでミニマル、また時にはリキッドな選曲に加え、その繊細かつ大胆なミックス テクニックを武器に流れる様なストーリーを演出し、フロアをロックし続けている。",
+		"profile_en"	:	""
+	},
+	"dx"	:	{
+		"name"			:	"DX",
+		"alias"			:	"dx",
+		"atype"			:	"DJ",
+		"org"			:	"SOI",
+		"suborg"		:	"",
+		"profile_ja"	:	"1990年代初頭にレアグルーヴ DJ として活動を開始後、90年代半ばにジャングルに傾倒し、97年に今なお続き、18年目に突入した\"野蛮ギャルド\"なドラムンベース パーティー \"Soi\" を始動。これまで国内外のビッグ パーティーからキャパ5人のカラオケ スナックまで、ベースラインを数珠つなぎで自由自在に操り、フロアから二度と抜け出せない \"ベース蟻地獄\" に陥れるドープなミックスを武器に、ありとあらゆる重低音イベントに出演してきた。2004年には、Dx & Yoneda名義で UK のレーベル \"Eastside\" から12インチをリリース。その後も国内外レーベルからのリリースに加え、日本人ドラムンベース コンピレーション \"Tokyo Rockers\" のディレクションや、数々のリミックス ワーク等、制作活動も精力的に展開している。現在は、Soi での DJ 活動を中心に、ドラムンベース・ジャングルのみならずダブステップやジューク、ワールド ミュージックまで BPM やジャンルを越境する独自のサウンドを追求しつつ、日々止むことのない重低音ライフを送っている。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"DX (MIX CLOUD)",
+				"url"	:	"www.mixcloud.com/dx4649/"
+			},
+			{
+				"name"	:	"SOI",
+				"url"	:	"www.soi-tokyo.com"
+			}
+		]
+	},
+	"ena"	:	{
+		"name"			:	"ENA",
+		"alias"			:	"ena",
+		"atype"			:	"DJ",
+		"org"			:	"7EVEN / SAMURAI HORO",
+		"suborg"		:	"",
+		"profile_ja"	:	"ドラムンベースから派生した独自な音楽の評価が高く、Loxy, Surgeon, Mu-Ziq, Peverelist, Pangaea, Laurent Garnier 等、ジャンルを問わずトップ DJ からのサポートを受け、Resident Advisor の Podcast に自身の曲を中心としたミックスを提供。多数のレーベルからリリースを重ねると同時に、楽曲のクオリティの高さからミキシング / マスタリングの評価も高く、様々な作品にエンジニアリングでも参加。2013年には 7even Recordings からアルバム \"BILATERAL\" をリリースし、日本全国、アジア、ヨーロッパとツアーを成功させると共に、いま最も注目されているレーベル \"Samurai Horo\" のコンピレーション作品 \"Scope\" に2曲を提供。ヨーロッパツアー中に出演した Redbull Radio Berlin にて、2014年に同レーベルからアルバムがリリースされることが発表され、2014年3月には \"Bacterium EP\" を発表。",
+		"profile_en"	:	"Music producer from Tokyo, ENA is a major player of the Japanese underground Dance Musicscenes for more than a decade. Taking influences from early DNB productions, Rave sound and Abstract Hip Hop, quoting names such as Photek, Krush, Source Direct and Renegade Hardware, ENA is recognized for his tight production technique and massive audio dynamics, as well as for his Djing selection and technical quality. Uncompromising, forward-thinking and unique, his releases on 7even Recordings, CX:Digital, HE:Digital, Hymen, Horizons Music, supported by Loxy, Rockwell ,Sabre, Consequence, Distal and Peverelist to name but a few, have pushed his profile on the international scene, notably being asked in June 2012 by Resident Advisor to provide the episode n°313 of their acclaimed RA podcast series. In 2013 ENA releases his highly acclaimed Bilateral album on 7even Recordings and becomes part of the Samurai Horo team as well by signing two tracks on their forward-thinking. Scope compilation. Hi brand new Bacterium EP will be released this month on the same label.",
+		"links"			:	[
+			{
+				"name"	:	"ENA",
+				"url"	:	"flavors.me/ena_"
+			}
+		]
+	},
+	"gallo"	:	{
+		"name"			:	"GALLO",
+		"alias"			:	"gallo",
+		"atype"			:	"DJ",
+		"org"			:	"URBAN NATURE",
+		"suborg"		:	"",
+		"profile_ja"	:	"文化服装学院卒業後の2009年に渡英。ロンドンにて Rolling Mestro と出会い、ジャングル～ドラムンベースに出会い衝撃を受ける。そののち DJ を始め、ロンドンにて Reggae crew positive vibes crew が主催するウェアハウス パーティーにて Marvelous cain との共演を果たす。2013年帰国。同年9月に、文化服装学院出身の Tomoyoshi, Yamato Takaha と \"UN -Urban Nature-\" を立ち上げ、音楽だけではない空間作り、シンプルかつ人の心に響くものを常に追求している。",
+		"profile_en"	:	""
+	},
+	"hshiratori"	:	{
+		"name"			:	"H.SHIRATORI",
+		"alias"			:	"hshiratori",
+		"atype"			:	"DJ",
+		"org"			:	"TOPOLOGY",
+		"suborg"		:	"",
+		"profile_ja"	:	"クラシック、ロック、ヒップホップ、レゲエ、ダブ、テクノ、ドラムンベースの影響を受けた後、楽曲制作を始める。2011年、自身主宰のパーティー Topolozy を始動。2013年、精鋭アーティストがリリースを重ねるオランダのレーベル SMPTM からデビュー シングルをリリース。同年、UK のレーベル Dust Audio のエクスペリメンタル サイド Turbine Music のローンチ コンピレーションに楽曲を提供。2014年、DBR UK オーナーのレーベル Broken Audio Recordings のコンピレーション アルバム \"Musical Currency Vol.1\" からリリース。また、未発表作品の多くが Loxy, Ink, Gremlimz, Homemade Weapons, Reza, Ivy Lab, Amoss 等のトップ DJ からサポートされている。",
+		"profile_en"	:	"H.Shiratori is a producer and DJ based in Tokyo, Japan. And organizing local event 'Topolozy' from 2011.He produces music with influence of Classic music, Rock, Hip Hop, Reggae, Dub, Techno. and, he has released from UK and Netherlands Labels with a few of tunes. His tunes are supported by Loxy, Ink, Gremlinz, Reza, Sabre, Ivy Lab, Amoss, and more.",
+		"links"			:	[
+			{
+				"name"	:	"H.SHIRATORI (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/shiratori"
+			}
+		]
+	},
+	"halu"	:	{
+		"name"			:	"HALU",
+		"alias"			:	"halu",
+		"atype"			:	"DJ",
+		"org"			:	"INDIGO",
+		"suborg"		:	"",
+		"profile_ja"	:	"2013年、メインとなる活動をダンサーから DJ に転向。幼少期より芸事の世界に浸かってきた独自の表現感覚を大切にしながらドラムンベースの可能性を探る。東京のクラブシーンでの DJ を基盤にレジデントを掛け持ち、TOPSHOP / アートイベント / ダンス コンテスト / スケート大会 / 地元 茅ヶ崎の音楽イベント等、自身のルーツを活かした活動を展開。関西圏からのブッキングも多く、フットワークも軽い。ペインターとしては、ライブペイント / 店舗内装 / フライヤーデザイン等も手掛ける。ミュージック PV / MV や CM などの広告にも出演している。1989年横浜生まれ、茅ヶ崎育ち。好きな色は青。定期的に海で潮風を浴びないと駄目になる。10代に三度の留学を経験し、和洋折衷のデザインを好む。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"HALU (FACEBOOK)",
+				"url"	:	"www.facebook.com/haludnb"
+			},
+			{
+				"name"	:	"HALU (TUMBLR)",
+				"url"	:	"haludnb.tumblr.com"
+			},
+			{
+				"name"	:	"HALU (MIX CLOUD)",
+				"url"	:	"mixcloud.com/haludnb"
+			},
+			{
+				"name"	:	"HALU (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/haluna-toyoda/"
+			}
+		]
+	},
+	"asamoto"	:	{
+		"name"			:	"HIROFUMI ASAMOTO",
+		"alias"			:	"asamoto",
+		"atype"			:	"DJ",
+		"org"			:	"BARRICADE",
+		"suborg"		:	"",
+		"profile_ja"	:	"福岡生まれ。10代にパンク、ニューウェーブの洗礼を受ける。上京の後、伝説のダブバンド、Mute Beat に加入。この頃書きおろした楽曲 \"After the Rain\" は、Lee Perryの \"Saturn Kicked the Backet\" (1988年) の中でトラックとして使われた。脱退の後、ダブ～ハウス～ヒップホップなどダンスミュージックに音楽性を大きくシフトし、Ram Jam World を結成。更に90年代後半にはドラムンベースへと音楽性の変貌を遂げ、数枚のアルバムをリリース。Speech、DJ Hype、Zinc、DJ Krust、Shy FX 等ともコラボレートする。プロデュースでは、UA の \"情熱\"、\"悲しみジョニー\" 等で、その名を知られる。現在、アイコ (Sugar Soul)、MC Cardz と共に、KAM を結成。また、Dr Echologic 名義で、インスト アルバム等もリリースしている。ダブをルーツに持つあらゆる音を追求し続ける。",
+		"profile_en"	:	""
+	},
+	"itti"	:	{
+		"name"			:	"ITTI",
+		"alias"			:	"itti",
+		"atype"			:	"DJ",
+		"org"			:	"FUTURE FORCES",
+		"suborg"		:	"",
+		"profile_ja"	:	"2009 年よりエレクトロ・ハウス DJ として活動を開始。その腕を買われ、これまでに Diplo, LOVEFOXXX, Mr Flash, MASON, Mustard Pimp, Chewy Chocolate Cooki のフロアアクトを務めた。 その後ドラムンベースとの出会いに衝撃を受け、その繊細かつ狂暴なプレイスタイルとアイデンティティーある選曲でフロアを響かせ、オーディエンスを魅了し続けている。そして、2012年11月にはアジア最大級のドラムンベースパーティー 06S @ WOMB のメインフロアで プレイし、Calyx & TeeBee, dBridge, Futurebound, Brookes Brothers, Shimon, The Upbeats, ASY 等のトップアーティストとの共演を重ね続けている。また自身のイベントである \"UNIKE\" を立ち上げ、そのウイットに富んだブッキングや趣向を凝 らしたコンテンツが話題を呼び、東京アンダーグラウンドシーンの最重要イベントの一つとし ての地位を築き上げ日本のクラブシーンの繁栄に力を注いでいる。現在はリミックスが海外ブログで紹介、Outlook Festival 2013 の DJ コンペティションに入賞する 等、プロデューサーとしても頭角を現し始めており、今後の活動にさらに注目が集まっている。",
+		"profile_en"	:	"He started ELECTRO, HOUSE DJ since 2009. That skills were evaluated.He have played with Diplo, LOVEFOXXX, Mr Flash, MASON, Mustard Pimp and Chewy Chocolate Cookies. He like DRUM&BASS, DRUM-STEP to Play on, And the DJ style is sensitive, dynamic and his selection of music is colorful. 2012/11, He made a very successful debut 06S which is the largest DRUM&BASS party of Asia, with DCalyx & TeeBee, dBridge, Futurebound, Brookes Brothers, Shimon, ASY… etc. And he hold is organizing \"UNIKE\". The witty booking and contents made news in the club scene. UNIKE was be one of the best young event in Tokyo club scene. Now, he is devoting compose music. Recently, remix was got listed on foreign blogs and won a prize in the DJ Competition of OUTLOOK FESTIVAL 2013."
+	},
+	"kmtr"	:	{
+		"name"			:	"KMTR",
+		"alias"			:	"kmtr",
+		"atype"			:	"DJ",
+		"org"			:	"BASS FUSION",
+		"suborg"		:	"",
+		"profile_ja"	:	"熊本出身 福岡親不孝通り育ち。当初は80s ニューウェーブやパンクロック等の DJ をしていたが、ドラムンベースを体感して間もなく、ドラムンベース DJ に転向。都内のクラブの大小を問わず、主に夜明けの時間帯を得意とし、ソウル～ジャズに影響を受けたトラックを中心にプレイしている。また、自身の楽曲が US のインターネット ラジオ Bass Drive でプレイされる等、楽曲制作の面においても精力的に活動している。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"KMTR (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/djkmtr"
+			},
+			{
+				"name"	:	"KMTR (TWITTER)",
+				"url"	:	"twitter.com/djkmtr"
+			}
+		]
+	},
+	"largemouth"	:	{
+		"name"			:	"LARGE MOUTH",
+		"alias"			:	"largemouth",
+		"atype"			:	"DJ",
+		"org"			:	"JUNGLE SCAPE",
+		"suborg"		:	"KAIZAN RECORDS",
+		"profile_ja"	:	"数々のバックグラウンドを経て1999年、ドラムンベース DJ として本格的にスタートする。横浜を中心に活動し、様々なキャリアを経て東京に拠点を移し、類まれしたミックス スキルと、タイトかつグルーヴィーな選曲でフロアをロックしている。2008年より、MC D2 と共に Jungle Scape を主催。国内外から様々なアーティストを招き、共演を果たす。常に新しい事を発信、年々盛り上がりは加速し、Jungle Scape でしか味わえない空間を日々提供している。そして2009年に日本では数少ないドラムンベース レーベル、Kaizan Records を開始。オリジナリティー溢れる数多くの楽曲を発表し、これまで海外、国内を代表するトップ アーティスト、MC が参加している。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"KAIZAN RECORDS",
+				"url"	:	"kaizan-records.com"
+			},
+			{
+				"name"	:	"KAIZAN RECORDS (FACEBOOK)",
+				"url"	:	"www.facebook.com/kaizanrecords"
+			}
+		]
+	},
+	"mahiru"	:	{
+		"name"			:	"MAHIRU",
+		"alias"			:	"mahiru",
+		"atype"			:	"DJ",
+		"org"			:	"どらむん町内会",
+		"suborg"		:	"",
+		"profile_ja"	:	"1990年生まれ。学生時代に伊波まひるとドラムンベースに強く影響を受け DJ 活動を始める。敬愛する伊波まひるを筆頭に自身の経験したカルチャーとドラムンベースをミックスした DJ スタイルで幅広いイベントに出演。ベース ミュージックを中心としたイベントを精力的に立ち上げ都内で活躍する実力派 DJ を数多く招聘。現在は秋葉原 MOGRA で架空の町 \"どらむん町\" を舞台にした \"どらむん町内会\"、青山蜂のベース ミュージック パーティー \"ArijuaNa\" を中心に活動中。",
+		"profile_en"	:	""
+	},
+	"makoto"	:	{
+		"name"			:	"MAKOTO",
+		"alias"			:	"makoto",
+		"atype"			:	"DJ",
+		"org"			:	"HUMAN ELEMENTS",
+		"suborg"		:	"HUMAN ELEMENTS / HE:DIGITAL / GOOD LOOKING / INNERGROUND / CREATIVE SOURCE / BINGO BEATS / HOSPITAL / CIA / LIQUID V",
+		"profile_ja"	:	"ドラムンベースのミュージカル サイドを代表するレーベル LTJ Bukem の Good Looking Records の専属アーティストとして1998年にデビュー以来、ソウル、ジャズ感覚に溢れる感動的な楽曲を次々に生み出し、これまでに、2枚のアーティスト アルバム\"Human Elements (2003年)\"、\"Believe In My Soul (2007年)\"、その他 DJ Marky の Innerground、Fabio の Creative Source、DJ Zinc の Bingo、London Elektricity の Hospital、CIA、Liquid V 等の UK 主要ドラムンベース レーベルより、12インチシングル、EP、リミックス、コンピレーションへの参加などで数々の楽曲を発表している。DJ としては、2枚のミックス CD \"Progeression Sessions 9 - Live in Japan 2003\"、\"DJ Marky & Friends presents Makoto\" をこれまでに発表し、世界30ヶ国、100都市以上を周り、数千、数万のクラウドを歓喜させ、その実⼒を余すところなく証明し続けてきた、まさに日本を代表し世界的にもドラムンベースのトップ DJ / プロデューサーである。Jazzanova との活動でしられる Paul Randolph を迎えた配信限定ニューシングル \"Tower Of Love\"、これまでの作品を集めたコンピレーションアルバム \"This Is How I Do\" を2011年3月に発表、その後 東日本大震災のチャリティー コンピレーション アルバム \"Something We Can Do\" を自身のデジタルレーベル HE:Digital より発表し、いち早く復興支援を表明。待望のニューアルバム \"Souled Out\" を2011年10月に発表後、2012年2月に Motion Blue 横浜で行われた8人編成のフルバンドでのライブを収録した \"Live @ Motion Blue Yokohama\" を2012年9月にリリース。そして2013年6月には \"Souled Out\" 三部作の完結となる \"Souled Out Remixed\" をリリースしたばかりである。",
+		"profile_en"	:	"Makoto Shimizu, more widely known simply as \"Makoto\", is a testament to the international scope and power of electronic music. Born, raised and still based in Tokyo, Makoto was influenced at a young age by a wide variety of music ranging from classical to soul and funk. Upon hearing the soundtrack to The Last Emperor by the academy award winning composer Ryuichi Sakamoto, Makoto was so inspired that he made a life changing decision - to pursue a career in music. He went on to complete an Acoustic Engineering major at Nippon University, and having been introduced to drum and bass through listening to the radio shows of Giles Peterson on Kiss FM and BBC Radio 1, Makoto began experimenting with the genre through his own compositions. To him the appeal of this relatively new form of music was simple - drum and bass was just \"very futuristic and cool\". His productions were of such quality that they caught the attention of none other than the legendary LTJ Bukem, who went on to sign Makoto to his seminal Good Looking Records imprint in 1999. To paraphrase a lyric from one of his most famous tracks, music has never let Makoto down. Since that fateful signing in 1999, Makoto has gone on to be one of the most highly respected artists in the genre, pushing his unique blend of fast breaks and soul drenched music to every corner of the globe as both a DJ and a producer. His discography includes 2 LPs, Live DJ Mix, a large number of EPs and numerous tracks featured on the world famous \"Earth\" and \"Progression Sessions\" compilation albums. Some of his most notable releases include his debut album \"Human Elements\", which was released in 2003 and was widely praised for bringing the feeling of 70s soul music into the 21st century, and \"Progression Sessions:Japan Live 2003\", which introduced his dynamic musical partnership with talented female vocalist Deeizm to the world. He achieved industry wide acclaim through his powerful collaboration with LTJ Bukem's ever present stage partner MC Conrad in 2005 through \"Golden Girl\". The track was widely praised and played by DJs across the many sub genres of drum and bass and became a certified genre anthem all over the world.Incidentally, Golden Girl and 2nd Album \"Believe In My Soul\" were to be one of Makoto's final releases for Good Looking Records. With a slightly different direction and more creative freedom in mind, Makoto began to release music for other labels such as DJ Zinc's Bingo Beats, London Elektricity's Hospital Records, Fabio's Creative Source and of course, DJ Marky's Innerground Records. His musical connection with Marky runs deep, and was solidified with his very own mix cd released on Marky's label in 2009 titled \"DJ Marky & Friends presents Makoto\". The pair have gone on to collaborate and release a number of tracks together the most recent being the 12 inch single \"Aquarius / Good Old Days\". Alongside this hefty release time line and a touring schedule jam packed with gigs across Asia, Europe, UK and USA, Makoto has been busy setting up his own label - HE:Digital. Focusing mainly on digital releases, the label has given Makoto an opportunity to not only release his own material, but that of others as well. In 2010 he released the compilation album \"HE:Possibilities\" through the label. The release was aimed at drawing attention to up and coming producers from Japan. More recently, he was proud to put out the charity compilation album \"Something We Can Do\" where all profits were donated to the Red Cross in Japan to help the victims of the tragic tsunami and earthquake which struck the country. Together with these releases, Makoto has also just finished work on his brand new full length album for brand new all format label Human Elements titled \"Souled Out\". The album features many talented vocalists and session musicians, and is a culmination of the breadth of experience and talent Makoto brings to each track which credits his name. The album is due out this year, and will definitely be another milestone in the prolific musician's already widely acclaimed career. ",
+		"links"			:	[
+			{
+				"name"	:	"MAKOTO",
+				"url"	:	"www.makoto-music.com"
+			},
+			{
+				"name"	:	"MAKOTO (FACEBOOK)",
+				"url"	:	"www.facebook.com/makoto.humanelements"
+			},
+			{
+				"name"	:	"MAKOTO (TWITTER)",
+				"url"	:	"www.twitter.com/Makoto_MusicJP"
+			},
+			{
+				"name"	:	"HUMAN ELEMENTS",
+				"url"	:	"www.humanelements.jp"
+			}
+		]
+	},
+	"medico"	:	{
+		"name"			:	"MEDICO",
+		"alias"			:	"medico",
+		"atype"			:	"DJ",
+		"org"			:	"SPROUT",
+		"suborg"		:	"",
+		"profile_ja"	:	"日本唯一のダークステップ～ドラムンベース パーティー \"Sprout\" を発信地として、作曲 / DJ / オーガナイズ活動を行う。これまでにオーストラリアの \"Hell's Bassment\" や、日本国内の \"Murder Channel\" 等から楽曲を発表。2014年には Sprout のオウンレーベル、\"Iconoclast\" のコンピレーション アルバムにも楽曲を収録した。また、ダークステップにおける最重要アーティスト、Limewax、Current Value、Donny、Forbidden Society 等を招聘し、日本に衝撃を与えた。同時に Current Value とは、ライブ ストリーミング チャンネル \"DOMMUNE\" にて DJ として共演。多様なジャンルをダークでインダストリアルなサウンドでまとめ上げるコンセプティブな DJ を持ち味として、Sprout のアイデンティティーを発信している。その熟慮を重ねたスタイルによって、耳の肥えたオーディエンスより特に熱い支持を受け、ダークステップ サウンドの侵攻を画策、推し進めている。",
+		"profile_en"	:	""
+	},
+	"megsis"	:	{
+		"name"			:	"MEGSIS",
+		"alias"			:	"megsis",
+		"atype"			:	"DJ",
+		"org"			:	"AQUANAUTS",
+		"suborg"		:	"",
+		"profile_ja"	:	"歌う女性ドラムンベース DJ。DJ 中に即興のスキャットで歌うことを得意とし、ボカロ～アニソンからメインストリームまで、ドラムンベースを軸に活動。時にエレクトロ スウィング等でも DJ をする。2011年3月からニコニコ生放送で DJ 放送をしていたが、同年10月に秋葉原 MOGRA にて現場デビュー。ボカロ + クラブ ミュージックをコンセプトに掲げる \"Vocaloid-ManiaX\"、そしてドラムンベース オンリー イベント \"どらむん町内会\" のレジデントを務める。MC Cardz 主催の渋谷 LOUNGE NEO にて開催されている \"Barricade\" にも参加。Tokyo Audio Waffle シリーズでも一躍人気となった \"en;Dolphin Records\" に所属するヴォーカリストでもある。暴力的な音が鳴り響く女子イベント\"Qlovedolls\"、充電系平日ラウンジ イベント \"Plug Lounge\"、リキッドファンク イベント \"Aquanauts\"、そしてメガネ溺愛イベント \"Megane\" のオーガナイザーを努める。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"MEGSIS",
+				"url"	:	"megsis.secret.jp"
+			},
+			{
+				"name"	:	"MEGSIS (TWITTER)",
+				"url"	:	"twitter.com/DJ_Megsis"
+			}
+		]
+	},
+	"satoshi"	:	{
+		"name"			:	"SATOSHI",
+		"alias"			:	"satoshi",
+		"atype"			:	"DJ",
+		"org"			:	"HANGOVER",
+		"suborg"		:	"",
+		"profile_ja"	:	"1992年単身渡米。18歳の時にレイブカルチャーに触発され、テネシー州を拠点に DJ 活動を始める。シカゴハウスから影響を受け、ハウス DJ として様々なレイブイベントにてプレイする。その後、Diesel Boy、Phantom45、Odi 等、アメリカのドラムンベース アーティストのプレイを肌で体感し、2000年にはドラムンベース DJ に完全転身。シーンをリードするトップ アーティスト達と共演し、DJ スキルに磨きをかける。2003年帰国。現在は海外の新鋭アーティストを積極的に招待している \"Hangover\" のメンバーとして活動中。素早いミックスとスクラッチを織り交ぜた玄人好みなDJプレイで活動の幅を拡げている。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"HANGOVER",
+				"url"	:	"hangovertokyo.blog85.fc2.com"
+			},
+			{
+				"name"	:	"HANGOVER (FACEBOOK)",
+				"url"	:	"www.facebook.com/hangovertokyo"
+			}
+		]
+	},
+	"timeslut"	:	{
+		"name"			:	"TIMESLUT",
+		"alias"			:	"timeslut",
+		"atype"			:	"DJ",
+		"org"			:	"BASSICK",
+		"suborg"		:	"",
+		"profile_ja"	:	"Timeslut が DJ を始めた切っ掛けは、大学生の頃にインターネットラジオから偶然流れてきたドラムンベースと出会ったことであった。その瞬間から Timeslut の前衛的な選曲、プロダクション技術を追求する姿勢は一貫し、2005年より DJ としてのスキルを進化させ続けている。現在は活動の拠点を東京に置き、東京の主要なクラブ (ageHa, AIR, VISION, WOMB 等）等での DJ 経験を持つ。",
+		"profile_en"	:	""
+	},
+	"key"	:	{
+		"name"			:	"KEY MC",
+		"alias"			:	"key",
+		"atype"			:	"MC",
+		"org"			:	"HUMAN ELEMENTS",
+		"suborg"		:	"",
+		"profile_ja"	:	"幼少よりピアノ、サックス、ギター、ベースなど様々な楽器に触れ、14歳の頃より音楽制作を始める。2006年、地元 栃木のクラブでドラムンベースと出会い、MC 活動を開始。 2008年には拠点を東京に移し、数多くのイベントに出演。 2009年、\"Fabulous - The Words Of Love\" にヴォーカリストととして参加し、全国のレコードショップでハウスミュージック チャートを席巻する。 その後、2010年にフランスのプロデューサー Naibu との共作 \"Convictions (Rubik Records)\"、2011年には \"Velocity & Key - Ladder (HE:Digital)\", \"Naibu, Ena & Key - Into The Distance (Horizons Music)\", \"Naibu & Key - Over (Absys Records)\" が次々リリースされ、大きな話題を集めた。 そして2012年には、Heavy1 のアルバム \"Minimalized\" に、2013年には Naibu の \"Fall EP\" にヴォーカリストとして参加。 その他、ロック、ダブ、テクノなど様々なジャンルでのヴォーカルワークに加え、キーボードを弾きながらのライブセットや、自身での楽曲制作など、多岐に渡る活動を行っている。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"KEY (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/keymcdnb"
+			}
+		]
+	},
+	"shine"	:	{
+		"name"			:	"SHINE",
+		"alias"			:	"shine",
+		"atype"			:	"MC",
+		"org"			:	"",
+		"suborg"		:	"",
+		"profile_ja"	:	"東京生まれ広島育ち。小学生の頃からバンドマンの兄の影響によりギターを初め、中学生の頃からベースボーカルとして県内のライブハウスでパフォーマンスを開始。メロコアやスカコアなどの自身のバンドをする傍らオイパンクバンドのサポートをしていた。その後、都内の音楽専門学校へ行くために上京。そこで数々の音楽に触れヒップホップに傾倒しラッパーとなる。一度、地元広島へ戻りクラブイベントのショーケースでライブをする日々に、宮島のレイブ新月祭 / 満月祭で初めてドラムンベースに触れ一気に虜になる。広島在住時から都内の DBS に行き、その後シーンの最前線に立つべく再度上京。その時にドラムンベース パーティー \"謳歌\" のクルーと出会い、ドラムンベース MC としてのキャリアを開始。これ迄に国内外数多くの DJ と大小様々なパーティーで共演を果たし、現在は東京のドラムンベース MC として活動。今やドラムンベースのみならず様々なジャンルに挑戦している。自身の MC スタイルについては、Beatnik foundation と位置付け、ヒップホップなどの拍子では心情、ドラムンベースなどの倍速では状況を言葉にするスタイルを念頭に置いた MC。",
+		"profile_en"	:	""
+	},
+	"stone"	:	{
+		"name"			:	"STONE",
+		"alias"			:	"stone",
+		"atype"			:	"MC",
+		"org"			:	"WEEKEND RAVERS",
+		"suborg"		:	"",
+		"profile_ja"	:	"若手ながら数多くのパーティーをコントロールし、イギリス・アメリカ・東京で、Tokyo Hard Groove Session / X-Treme Hard / Happy Jack 等、ハード グルーヴ、ハード レイブでは、欠かせない存在となっている。RAVE & BASS という形を模索しながら、ドラムンベース シーンにも活動の場を拡げ、次世代レイブミュージック シーンの DJ とレイバーを繋ぐフロントマンになる事は、間違いないだろう。その小さな身体からでるダイナミックで、アップ リフティングなマイク パフォーマンスでグラウドを魅了する。2013年2月に、DJ Shimamura、Omi Asakura と共に \"Weekend Ravers\" 立ち上げ、クルーの考える現在進行形のハードコア レイブを具現化し秋葉原 MOGRA、渋谷 asia で、超満員のレイバー達を魅了した。DJ Shimamura with MC Stone による初のコラボレーション作品、\"Flow in da Sky\" は既にクラブ アンセム化！ 更に、Kors-k, DJ Noriken, Yukacco & DJ Genki との楽曲も高い評価を受けている。2012年より \"Tokyo Hardcore Explorer\" DJ Abitan と共に現場を再現した MC 入りライブミックス \"DJ Abitan & MC Stone - Hardcore Believer Mix Vol.1～5\" をフリー リリースし、Abitan と共に若手ながらその存在を主張している！",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"MC STONE",
+				"url"	:	"www.mcstone14.com"
+			},
+			{
+				"name"	:	"MC STONE (FACEBOOK)",
+				"url"	:	"www.facebook.com/mcstone14"
+			},
+			{
+				"name"	:	"MC STONE (TWITTER)",
+				"url"	:	"twitter.com/MCSTONE14"
+			}
+		]
+	},
+	"lowply"	:	{
+		"name"			:	"LOWPLY",
+		"alias"			:	"lowply",
+		"atype"			:	"DJ",
+		"org"			:	"HUMAN ELEMENTS",
+		"suborg"		:	"CONFUSION",
+		"profile_ja"	:	"LTJ Bukem主宰のGood Looking Recordsからリリースされているコンピレーションシリーズ \"Progression Sessions\" に触発されDJをスタートし、Drum&Bassを主軸としたパーティのオーガナイズを行う。2004年、Makotoの実弟Akiraや、盟友Kagaと共にLiquid Funkを軸としたより音楽的なパーティを目指し \"WarmColors\" を立ち上げ、オーガナイザー兼DJを努める。また、都内を中心に様々なDrum&Bassパーティに出演し、トラック制作など精力的に活動。2006年には、Shibuya FM \"Club Radio Dictionary\" にKiyomi MCと共に出演。2007年からはMakotoが主催する国内最高峰のDrum&Bassパーティ \"Humanelements\" にレジデントとして抜擢。2011年より、長野・松本唯一のドラムンベースパーティ \"Confusion\" にレジデントDJとして参加。一貫してGood Lookingサウンドを追求するスタイルのDJ/Productionは、各方面から高い評価を受けている。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"LOWPLY",
+				"url"	:	"lowply.com"
+			},
+			{
+				"name"	:	"LOWPLY (FACEBOOK)",
+				"url"	:	"www.facebook.com/lowply"
+			},
+			{
+				"name"	:	"LOWPLY (TWITTER)",
+				"url"	:	"twitter.com/lowply"
+			},
+			{
+				"name"	:	"LOWPLY (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/lowply"
+			}
+		]
+	},
+	"velocity"	:	{
+		"name"			:	"VELOCITY",
+		"alias"			:	"velocity",
+		"atype"			:	"DJ",
+		"org"			:	"HUMAN ELEMENTS",
+		"suborg"		:	"HE:Digital / INNERGROUND",
+		"profile_ja"	:	"2003年2月、DJ、デザイナー、VJ から構成される 7NiNE Productions の設立に参加。同年、7NiNE Productions がオーガナイズするマンスリーのドラムンベースパーティー ZERO の始動に伴い、渋谷 WOMB でレジデント DJ を務める。 2005年には、VJ ソフト Motion Dive Tokyo のサウンドエフェクトを手掛ける等、ドラムンベースにとらわれない活動を展開。2008年、Pioneer 主催の C.N.S (CDJ New Style) Battle の第一回大会で CDJ、Mixer、Effect を巧みに操り、そのスキルを余すこと無く発揮した結果、準優勝の栄冠に輝き日本トップクラスの実力を証明した。オリジナルチューンが Commix, Marky, Bailey, Bryan Gee, Hype, Random Movement, Makoto, Lenzman, A-Sidesさらには BBC Radio 1 でFriction によりプレイされる等、世界中の DJ にサポートされている中、HE:Digital より \"Velocity & Key MC - Ladder\" がリリースされ、収録されたアルバム \"Something We Can Do\" が iTunes Music Store Japan の Electronic チャート1位。Beatport シングルチャートで20位台を記録。2011年の冬には HE:Digital より自身初の4曲入りの EP となる \"Concentration EP\"、2012年には W10 Records より \"Light In Nightmare\"、Liquid Drops より \"Jelly Break\" がリリースされ、どちらもチャートインを果たす。そして Marky が主宰するレーベル \"Innerground\" や、A-Sides が主宰する \"Eastside\" 等からのリリースが決定し、さらには Phuzion Records, Advection Music, Yabai 84 Records など、日本・イギリス・アメリカ・ギリシャ・ドイツなど世界各国からのトラックリリースを控えている。",
+		"profile_en"	:	"Velocity is Drum&Bass DJ & Producer based in Tokyo, Japan. In Feb 2003, Velocity established \"7NiNE Productions\" (composition of DJ, Designer and VJ) to showcase his skills as a DJ. In the same year 7NiNE Production started the Neo Tokyo Drum & Bass party \"ZERO\", and he played as a resident DJ at WOMB(Tokyo). In 2005, Velocity took part and created sound effects for the legendary VJ software \"Motion Dive Tokyo\". In 2008, he entered and won the 2nd place on C.N.S(CDJ New Style) battle competition organized by Pioneer, where he laid-down and wowed the judges with his technical mixing styles and proved his skills to the world. and his tunes have been gaining major support from big names such as; Commix, Marky, Bailey, Bryan G, Random Movement, Makoto, A-Sides. and BBC 1 DJ Friction has also recently been playing his tunes. Velocity has released his tune \"Velocity & Key MC - Ladder\" on compilation album \"Something We Can Do\" from HE:Digital, which got to No.1 in the iTunes Store Electronic genre chart in Japan and managed to enter the top 20 in the Beatport single chart. In 2011, \"Light In Nightmare\" will be released on UK Drum & Bass label W10 Records, and also Velocity's first EP (Concentration EP) is forthcoming on HE:Digital due for release this winter. and finally his tunes signed with DJ Makry's \"Innerground\" & A-Sides's \"Eastside\". also he managed A&R of Makoto's HE:Digital recently. ",
+		"links"			:	[
+			{
+				"name"	:	"VELOCITY",
+				"url"	:	"www.velocity-tokyo.jp/"
+			},
+			{
+				"name"	:	"VELOCITY (FACEBOOK)",
+				"url"	:	"www.facebook.com/velocitytokyo"
+			},
+			{
+				"name"	:	"VELOCITY (TWITTER)",
+				"url"	:	"twitter.com/velocity7nine"
+			},
+			{
+				"name"	:	"VELOCITY (SOUND CLOUD)",
+				"url"	:	"soundcloud.com/velocity7nine"
+			}
+		]
+	},
+	"hiro"	:	{
+		"name"			:	"HIROSATO SAKUMA",
+		"alias"			:	"hiro",
+		"atype"			:	"Designer",
+		"org"			:	"HUMAN ELEMENTS",
+		"suborg"		:	"",
+		"profile_ja"	:	"大学に在学中より、デザイナーとしてのキャリアをスタート。2002年よりアートディレクター二本木 敬が主宰する \"9B (キュービー)\" に所属し指事を受け、ファッション関係や音楽関係を中心とした様々なアートワークのデザインを担当。2012年よりフリーランスとして活動をスタート。9B 所属時にメイン デザイナーとして担当していたファッション誌 \"ハイファッション (文化出版局)\" では、後に同誌より派生した書籍やウェブサイトを、フリーランスとなった後にアートディレクター / デザイナーとして兼務する。 また、2003年よりクリエーター集団 \"7NiNE Productions\" の設立に参加し、デザイナーとして在籍。フライヤー・ウェブサイト・ミックス CD カバージャケット等のアートワークを手掛ける。 2009年より、Makoto が主宰するドラムンベース パーティー \"Human Elements\"、同主宰のドラムンベース レーベル \"HE:Digital\" にデザイナーとして参加。\"Makoto feat. Paul Randolph - Tower of Love\" や \"Velocity - Concentration EP\" や \"東日本大震災 チャリティー コンピレーション アルバム Something We Can Do\" をはじめとする、同レーベルのほとんどのアートワークをデザインしている。そして、Makoto の作品の多くのアートワークも担当し、\"This is How I Do\"、\"Souled Out\"、\"Live @ Motion Blue Yokohama\"、\"Souled Out Remixed\" 等を手掛けている。また、\"Live @ Motion Blue Yokohama\" で Makoto のフルバンド ライブに参加したジャズ バンド Blu-Swing のアートワークを担当した作品もあり、そのアルバム \"Find Your Way\" は、\"APA Award 2013\" にて広告賞入選を受賞。 シンプルでありながらバランスを基調としたデザインは、ミニマルな世界の中で広大な世界観が表現され、その作品は海外のアーティスト達からも指示され、今後の活動が注目されている。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"HIROSATO SAKUMA (FACEBOOK)",
+				"url"	:	"www.facebook.com/hiro7nine"
+			}
+		]
+	},
+	"cardz"	:	{
+		"name"			:	"CARDZ",
+		"alias"			:	"cardz",
+		"atype"			:	"MC",
+		"org"			:	"BARRICADE",
+		"suborg"		:	"KAM / GEEZA",
+		"profile_ja"	:	"1982年生まれ和歌山県出身。日本語ラップ文化に衝撃を受け見よう見まねでラップを始め16歳の時に初ステージを経験。地元関西のヒップホップイベントで経験を積むなかドラムンベースの洗礼を受け当時日本では珍しかったドラムンベース MC としてのキャリアをスタート。様々なサウンドを雑食的に吸収しながら10数年に渡りドラムンベースの現場一筋にマイクを握る日々を送っており、レコーディング アーティストとしても様々な国内外アーティストとの共作 / 客演作を残している。近年はユニット \"KAM ( w/ 朝本浩文、アイコSUN a.k.a. SUGAR SOUL)\" 名義による活動をはじめ、\"block.fm\" にて毎週水曜日に放送中の \"Localize!!\" や、新木場 ageHa の情報プログラム \"ageHa Radio\" のメインパーソナリティを務めるほか、\"GEEZA ( w/ SEBBATH)\" / ソロ名義による DJ オファーをこなすなど多方面に渡り活躍中。",
+		"profile_en"	:	""
+	},
+	"ken"	:	{
+		"name"			:	"KEN",
+		"alias"			:	"ken",
+		"atype"			:	"DJ",
+		"org"			:	"HANGOVER",
+		"suborg"		:	"",
+		"profile_ja"	:	"Hangover 主宰。オーガナイザー / DJ。1997年に新宿リキッドルームの \"DBS\" で、ドラムンベースに出会う。 以後、DJ 活動をスタートし、2000年に渡米。アメリカのドラムンベースシーンを肌で感じ、汚れたサウンドに大きな影響を受ける。 2005年、アトランタのシーンを築き上げたアーティスト Mayhem と出会い、強い信頼関係を築く。翌年には Mayhem がオーガナイズするイベント \"Transit\" に出演し、暗黒ドラムンベースの新鋭 Limewax の前座を務める。2007年に帰国。同年に \"Hangover\" を結成し、イベントのオーガナイズを始める。シーンに影響を与えている新鋭アーティスト The Upbeats, Raiden, Dylan などを海外から招き、最先端のサウンドとバイブを提供している。",
+		"profile_en"	:	"",
+		"links"			:	[
+			{
+				"name"	:	"HANGOVER",
+				"url"	:	"hangovertokyo.blog85.fc2.com"
+			},
+			{
+				"name"	:	"HANGOVER (FACEBOOK)",
+				"url"	:	"www.facebook.com/hangovertokyo"
+			}
+		]
+	}
+}

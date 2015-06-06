@@ -1,0 +1,168 @@
+//===========================================
+// Header
+//===========================================
+
+@import "mobile_header.sass"
+
+//===========================================
+// Contents
+//===========================================
+
+div.container
+  width: 320px
+  //===========================================
+  // Headline
+  //===========================================
+  div.row:nth-child(1)
+    margin: 0 0 40px
+    div
+      display: none
+
+  //===========================================
+  // Content
+  //===========================================
+  div.row:nth-child(2)
+    margin: 0
+    div:nth-child(1)
+      padding: 0
+      div.control
+        display: none
+    //===========================================
+    // side
+    //===========================================
+    div:nth-child(2)
+      padding: 10px 0 0
+      border-top: solid 1px $keycolor
+
+  //===========================================
+  // Top
+  //===========================================
+  div.row:nth-child(2).top
+    div:nth-child(1)
+      p.flyer
+        padding-top: 412px
+
+  //===========================================
+  // Lineup
+  //===========================================
+  div.row:nth-child(2).artist_all
+    div:nth-child(1)
+      h3,
+      ul
+        margin: 0 25px
+      h3
+        padding-top: 40px
+      ul
+        font-size: 26px
+  div.row:nth-child(2).a,
+  div.row:nth-child(2).c
+    background: none
+  div.control
+    display: block
+    margin: 0
+  div.feedarea
+    display: none
+
+  //===========================================
+  // Interview & Artist
+  //===========================================
+  div.row:nth-child(2).interview,
+  div.row:nth-child(2).artist 
+    div:nth-child(1)
+      h2
+        width: 290px
+        padding-top: 290px
+        background-size: 290px 290px
+        margin-bottom: 15px
+        div,
+        div small
+          margin: 15px 0
+          small
+            margin-bottom: 40px
+    div:nth-child(2)
+      padding-top: 40px
+
+  //===========================================
+  // Interview
+  //===========================================
+  div.row:nth-child(2).interview
+    div:nth-child(1)
+      ol
+        li
+          span
+            display: none
+  //===========================================
+  // Artist
+  //===========================================
+  div.row:nth-child(2).artist 
+    div:nth-child(1)
+      ul
+        display: none
+      ul.mobile
+        margin: 40px 0
+        display: block
+        li
+          a
+            margin-left: 0
+    div:nth-child(2)
+      margin-top: 40px
+
+  //===========================================
+  // About
+  //===========================================
+
+  div.row:nth-child(2).about
+    div:nth-child(1)
+      ul.headmenu
+        font-size: 26px
+        padding: 40px 0 0
+      h2
+        padding-top: 40px
+      h2:nth-of-type(1)
+        margin-top: 40px
+      h3
+        margin: 30px 0
+      h3:nth-of-type(1)
+        margin: 40px 0
+        font-size: 14px
+      p
+        margin: 30px 0 0
+      p.small
+        margin-top: 0
+      ul.time_fee
+        margin-top: 20px
+      ul.links
+        display: none
+      ul.mobile
+        margin-top: 20px
+        display: block
+        li
+          a
+            margin-left: 0
+
+  //===========================================
+  // Report
+  //===========================================
+
+  div.row:nth-child(2).report
+    div:nth-child(1)
+      ul.headmenu
+        font-size: 26px
+        padding: 40px 0 0
+      h2
+        padding-top: 40px
+      h2:nth-of-type(1)
+        margin-top: 40px
+      .pc
+        display: none
+      .mobile
+        display: inline
+
+  //===========================================
+  // Copyright
+  //===========================================
+  small.cr
+    border-top: solid 1px $keycolor
+    margin: 0
+    padding: 20px 0
+    text-align: left

@@ -1,0 +1,77 @@
+			<div class="row a artist {{.Alias}}">
+				<div class="col-md-9">
+					<h2>
+						<div>{{.Name}}<small>{{.Org}}{{if .Suborg}}<small>{{.Suborg}}</small>{{end}}</small></div>
+					</h2>
+					<p>{{.Profile_ja}}</p>
+					{{if .Profile_en}}
+					<p>{{.Profile_en}}</p>
+					{{end}}
+				
+					{{if .Links}}
+					<ul class="list-unstyled">
+					{{range $index, $element := .Links}}
+						<li>{{$element.Name}}<a href="http://{{$element.Url}}">{{$element.Url}}</a></li>
+					{{end}}
+					</ul>
+					{{end}}
+
+					{{if .Links}}
+					<ul class="list-unstyled mobile">
+					{{range $index, $element := .Links}}
+						<li><a href="http://{{$element.Url}}">{{$element.Url}}</a></li>
+					{{end}}
+					</ul>
+					{{end}}
+
+					<div class="control">
+						<a href="#top">TOP</a>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<h3>DJ (A to Z)</h3>
+					<ul class="list-unstyled">
+						<li><a href="/artist/arumakan/">ARUMAKAN</a></li>
+						<li><a href="/artist/aya/">AYA</a></li>
+						<li><a href="/artist/chami/">CHAM+I </a></li>
+						<li><a href="/artist/dx/">DX</a></li>
+						<li><a href="/artist/ena/">ENA</a></li>
+						<li><a href="/artist/gallo/">GALLO</a></li>
+						<li><a href="/artist/hshiratori/">H.SHIRATORI</a></li>
+						<li><a href="/artist/halu/">HALU</a></li>
+						<li><a href="/artist/asamoto/">HIROFUMI ASAMOTO</a></li>
+						<li><a href="/artist/itti/">ITTI</a></li>
+						<li><a href="/artist/kmtr/">KMTR</a></li>
+						<li><a href="/artist/largemouth/">LARGE MOUTH</a></li>
+						<li><a href="/artist/mahiru/">MAHIRU</a></li>
+						<li><a href="/artist/makoto/">MAKOTO</a></li>
+						<li><a href="/artist/medico/">MEDICO</a></li>
+						<li><a href="/artist/megsis/">MEGSIS</a></li>
+						<li><a href="/artist/satoshi/">SATOSHI</a></li>
+						<li><a href="/artist/timeslut/">TIMESLUT</a></li>
+					</ul>
+					<h3>MC (A to Z)</h3>
+					<ul class="list-unstyled">
+						<li><a href="/artist/key/">KEY MC</a></li>
+						<li><a href="/artist/shine/">SHINE</a></li>
+						<li><a href="/artist/stone/">STONE</a></li>
+					</ul>
+					<h3>SOUND SYSTEM</h3>
+					<ul class="list-unstyled">
+						<li><span>BROAD AXE SOUND SYSTEM</span></li>
+					</ul>
+					<h3>STAFF (A to Z)</h3>
+					<ul class="list-unstyled">
+						<li><a href="/artist/cardz/">CARDZ </a></li>
+						<li><a href="/artist/chami/">CHAM+I </a></li>
+						<li><a href="/artist/dx/">DX</a></li>
+						<li><a href="/artist/halu/">HALU</a></li>
+						<li><a href="/artist/hiro/">HIROSATO SAKUMA</a></li>
+						<li><a href="/artist/itti/">ITTI</a></li>
+						<li><a href="/artist/ken/">KEN</a></li>
+						<li><a href="/artist/kmtr/">KMTR</a></li>
+						<li><a href="/artist/lowply/">LOWPLY</a></li>
+						<li><a href="/artist/velocity/">VELOCITY</a></li>
+					</ul>
+				</div>
+			</div><!-- /.row -->

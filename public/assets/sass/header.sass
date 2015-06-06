@@ -1,0 +1,61 @@
+div.navbar-inverse
+  background-color: #000
+  border: none
+  margin-bottom: 0
+  div.container
+    background: url("/assets/img/border_header.svg") no-repeat center top
+    padding: 0
+    div.navbar-header
+      width: 192px
+      margin: 0 1px
+      > ul
+        display: none
+      h1
+        margin: 37px 0
+        padding: 0
+        background: url("/assets/img/logo.svg") no-repeat center center
+        height: 0
+        padding-top: 90px
+        overflow: hidden
+    ul.navbar-nav
+      font-size: 11px
+      li
+        margin: 0 1px 0 0
+        width: 96px
+        height: 96px
+        text-align: center
+        a
+          padding: 82px 0 0
+          color: #FFDC00
+        a:hover
+          background: url("/assets/img/nav_hover.svg") no-repeat center top
+      // li.report > a:hover
+      //   background: none
+      //   cursor: default
+      li.sns
+        padding-top: 70px
+        a
+          display: block
+          height: 0
+          width: 25px
+          padding: 25px 0 0 0
+          overflow: hidden
+          margin: 0
+          float: left
+          background-position: left top
+          background-size: 25px 50px
+        a:hover
+          background-position: left bottom
+        a.tw
+          background-image: url("/assets/img/icon_tw.svg")
+        a.fb
+          margin: 0 6px 0 20px
+          background-image: url("/assets/img/icon_fb.svg")
+          
+$pages: about, column, time, report, artist
+@each $page in $pages
+  body##{$page} .navbar>.container > .navbar-nav > li > a[href^="/#{$page}"]
+    background: url("/assets/img/nav_hover.svg") no-repeat center top
+
+body#top .navbar>.container > .navbar-nav > li > a[href="/"]
+  background: url("/assets/img/nav_hover.svg") no-repeat center top

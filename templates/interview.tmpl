@@ -1,0 +1,45 @@
+			<div class="row a interview {{.Alias}}">
+				<div class="col-md-9">
+					<h2>
+						<div>{{.Name}}<small>{{.Org}}</small></div>
+					</h2>
+
+					<dl>
+						{{range $index, $element := .QAs}}
+							<dt>{{$element.Question}}</dt>
+							<dd>{{$element.Answer}}</dd>
+						{{end}}
+                    </dl>
+
+					<p class="fin">ありがとうございました。</p>
+					<div class="control">
+						<a href="#top">TOP</a>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<h3>INTERVIEW (A to Z)</h3>
+					<ul class="list-unstyled">
+						<li><a href="/column/interview/arumakan/">ARUMAKAN</a></li>
+						<li><a href="/column/interview/aya/">AYA</a></li>
+						<li><a href="/column/interview/chami/">CHAM+I </a></li>
+						<li><a href="/column/interview/dx/">DX</a></li>
+						<li><a href="/column/interview/ena/">ENA</a></li>
+						<li><a href="/column/interview/gallo/">GALLO</a></li>
+						<li><a href="/column/interview/hshiratori/">H.SHIRATORI</a></li>
+						<li><a href="/column/interview/halu/">HALU</a></li>
+						<li><a href="/column/interview/asamoto/">HIROFUMI ASAMOTO</a></li>
+						<li><a href="/column/interview/itti/">ITTI</a></li>
+						<li><a href="/column/interview/key/">KEY MC</a></li>
+						<li><a href="/column/interview/kmtr/">KMTR</a></li>
+						<li><a href="/column/interview/largemouth/">LARGE MOUTH</a></li>
+						<li><a href="/column/interview/mahiru/">MAHIRU</a></li>
+						<li><a href="/column/interview/makoto/">MAKOTO</a></li>
+						<li><a href="/column/interview/medico/">MEDICO</a></li>
+						<li><a href="/column/interview/megsis/">MEGSIS</a></li>
+						<li><a href="/column/interview/satoshi/">SATOSHI</a></li>
+						<li><a href="/column/interview/shine/">SHINE</a></li>
+						<li><a href="/column/interview/stone/">STONE</a></li>
+						<li><a href="/column/interview/timeslut/">TIMESLUT</a></li>
+					</ul>
+				</div>
+			</div><!-- /.row -->
