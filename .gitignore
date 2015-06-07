@@ -24,7 +24,8 @@ _testmain.go
 *.prof
 
 *.sass-cache
-logs
+logs/*
+!.keep
 gin-bin
 .trash
 main
