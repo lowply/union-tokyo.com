@@ -14,7 +14,7 @@ APPNAME="union-tokyo.com"
 CPORT="3000"
 HPORT="3000"
 
-logger "---"
+logger "--- ${1} ---"
 logger "restart.sh kicked by webhook"
 
 logger "git pull ..."
