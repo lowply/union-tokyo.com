@@ -15,7 +15,7 @@ CPORT="3000"
 HPORT="127.0.0.1:3000"
 
 logger "--- ${1} ---"
-logger "restart.sh kicked by webhook"
+logger "restart.sh kicked by webhook.fixture.jp"
 
 logger "git pull ..."
 git pull
