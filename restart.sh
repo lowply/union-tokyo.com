@@ -12,7 +12,7 @@ type git > /dev/null 2>&1 || { logger "git is not installed"; exit 1; }
 USERNAME="lowply"
 APPNAME="union-tokyo.com"
 CPORT="3000"
-HPORT="3000"
+HPORT="127.0.0.1:3000"
 
 logger "--- ${1} ---"
 logger "restart.sh kicked by webhook"
