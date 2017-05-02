@@ -2,17 +2,21 @@
 
 This is all data and codes for [union-tokyo.com](http://union-tokyo.com/)
 
-## Dependencies
+## Prerequirements
 
-- Docker
+- [golang/dep](https://github.com/golang/dep)
+- Local port 3000
 
 ## How deploy
 
 ```bash
 $ git clone https://github.com/lowply/union-tokyo.com.git
 $ cd union-tokyo.com
-$ make deploy
+$ make deps
+$ DEPDIR=/path/to/dir make deploy
 ```
+
+Then reverse proxy to `localhost:3000` and set static file path to `/public`
 
 ## Environments
 
@@ -20,7 +24,6 @@ $ make deploy
 
 - [Go](https://golang.org/) for application server
 - [Martini](https://github.com/go-martini/martini) for URL routing
-- [Gin](https://github.com/codegangsta/gin) for realtime compile
 
 ##### Frontend
 
@@ -33,15 +36,4 @@ $ make deploy
 
 ##### Datastore
 
-- JSON file, no database
-
-##### Infrastructure
-
-- [Sakura VPS](http://vps.sakura.ad.jp/) for hosting
-- [Amazon Route53](http://aws.amazon.com/route53/) for DNS
-- [Nginx](http://nginx.org/) for reverse proxy
-
-##### Deployment
-
-- [GitHub](https://github.com/lowply/union-tokyo.com/) for version control
-- [Docker](https://www.docker.com/) for application portability
+- JSON files, no database

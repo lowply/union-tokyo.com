@@ -21,4 +21,4 @@ else
 	$(error Usage: "DEPDIR=/path/to/dir make deploy")
 endif
 
-.PHONY: build
+.PHONY: deploy
