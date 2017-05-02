@@ -16,7 +16,7 @@ build:
 
 deploy:build
 ifdef DEPDIR
-	rsync -av --delete bin public ${DEPDIR}
+	rsync -av --delete bin public templates ${DEPDIR}
 else
 	$(error Usage: "DEPDIR=/path/to/dir make deploy")
 endif

@@ -140,7 +140,7 @@ func report(r render.Render) {
 
 func column_interview_artist(params martini.Params, r render.Render) {
 	name := params["name"]
-	file, err := ioutil.ReadFile("data/artists.json")
+	file, err := ioutil.ReadFile("public/assets/data/artists.json")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -150,7 +150,7 @@ func column_interview_artist(params martini.Params, r render.Render) {
 		log.Fatal(err)
 	}
 
-	file, err = ioutil.ReadFile("data/interviews.json")
+	file, err = ioutil.ReadFile("public/assets/data/interviews.json")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -179,7 +179,7 @@ func column_interview_artist(params martini.Params, r render.Render) {
 
 func artist(params martini.Params, r render.Render) {
 	name := params["name"]
-	file, err := ioutil.ReadFile("data/artists.json")
+	file, err := ioutil.ReadFile("public/assets/data/artists.json")
 	if err != nil {
 		log.Fatal(err)
 	}
