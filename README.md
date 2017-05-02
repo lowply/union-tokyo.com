@@ -6,12 +6,12 @@ This is all data and codes for [union-tokyo.com](http://union-tokyo.com/)
 
 - Docker
 
-## How to run
+## How deploy
 
 ```bash
 $ git clone https://github.com/lowply/union-tokyo.com.git
 $ cd union-tokyo.com
-$ restart.sh
+$ make deploy
 ```
 
 ## Environments
