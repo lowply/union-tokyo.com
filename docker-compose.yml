@@ -1,0 +1,9 @@
+version: '3'
+services:
+  main:
+    build:
+      context: .
+    image: lowply/union-tokyo.com
+    container_name: union-tokyo.com
+    ports:
+      - "3010:3010"
