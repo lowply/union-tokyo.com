@@ -67,7 +67,7 @@ func main() {
 	m.Get("/artist/:name", artist)
 	m.Get("/time", time)
 	m.Get("/report", report)
-	http.ListenAndServe("0.0.0.0:3000", m)
+	http.ListenAndServe("0.0.0.0:3010", m)
 	m.Run()
 }
 
