@@ -1,0 +1,12 @@
+github.com/codegangsta/inject v0.0.0-20140425184007-37d7f8432a3e h1:ASNbuqbRsgQCvemp0S2XxhASDu/4mlOH4z3XOi0Iisk=
+github.com/codegangsta/inject v0.0.0-20140425184007-37d7f8432a3e/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
+github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 h1:sDMmm+q/3+BukdIpxwO365v/Rbspp2Nt5XntgQRXq8Q=
+github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
+github.com/go-martini/martini v0.0.0-20140519164645-49411a5b6468 h1:Se/FfS0xjB5rsDhsKfZf0R75vf7hRUHlJwAh0h63Kvw=
+github.com/go-martini/martini v0.0.0-20140519164645-49411a5b6468/go.mod h1:/P9AEU963A2AYjv4d1V5eVL1CQbEJq6aCNHDDjibzu8=
+github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab h1:xveKWz2iaueeTaUgdetzel+U7exyigDYBryyVfV/rZk=
+github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab/go.mod h1:/P9AEU963A2AYjv4d1V5eVL1CQbEJq6aCNHDDjibzu8=
+github.com/martini-contrib/render v0.0.0-20150707142108-ec18f8345a11 h1:YFh+sjyJTMQSYjKwM4dFKhJPJC/wfo98tPUc17HdoYw=
+github.com/martini-contrib/render v0.0.0-20150707142108-ec18f8345a11/go.mod h1:Ah2dBMoxZEqk118as2T4u4fjfXarE0pPnMJaArZQZsI=
+github.com/oxtoacart/bpool v0.0.0-20150712133111-4e1c5567d7c2 h1:CXwSGu/LYmbjEab5aMCs5usQRVBGThelUKBNnoSOuso=
+github.com/oxtoacart/bpool v0.0.0-20150712133111-4e1c5567d7c2/go.mod h1:L3UMQOThbttwfYRNFOWLLVXMhk5Lkio4GGOtw5UrxS0=

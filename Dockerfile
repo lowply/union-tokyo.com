@@ -1,9 +1,7 @@
 FROM golang:latest AS golang
 WORKDIR /go/src/app
 COPY . .
-RUN go-wrapper download
-RUN go-wrapper install
-RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o bin/main .
+RUN GO111MODULE=on CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o bin/main .
 
 FROM alpine:latest
 WORKDIR /app
