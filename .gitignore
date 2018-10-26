@@ -1,4 +1,2 @@
-*.sass-cache
-main
-vendor
-!.keep
+public/assets/.sass-cache/*
+bin/*
